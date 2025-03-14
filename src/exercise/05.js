@@ -1,9 +1,6 @@
 // useRef and useEffect: DOM interaction
 // http://localhost:3000/isolated/exercise/05.js
 
-// Vanilla Tilt
-// React.useEffect for sideeffect
-
 import * as React from 'react'
 // eslint-disable-next-line no-unused-vars
 import VanillaTilt from 'vanilla-tilt'
